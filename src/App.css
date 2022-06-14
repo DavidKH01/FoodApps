@@ -13,8 +13,16 @@
   }
 }
 
+.p1 {
+  font-size: 20px;
+}
+
+.p2 {
+  font-size: 100px;
+}
+
 .App-header {
-  background-color: #282c34;
+  background-color: #ced3dd;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
